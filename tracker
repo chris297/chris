@@ -1,0 +1,4 @@
+mkdir transport-tracker
+cd transport-tracker
+cp <my-cloned-repo>/backend/ .
+cd backend
